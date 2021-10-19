@@ -1,0 +1,1 @@
+Un composant d'ordre supérieur (Higher-Order Component ou HOC, NdT)
